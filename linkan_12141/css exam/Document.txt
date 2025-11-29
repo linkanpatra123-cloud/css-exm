@@ -1,0 +1,41 @@
+FreshCart – Online Grocery Store
+Project Reference Link: Link
+Project Title: FreshCart – Online Grocery Store (CSS3 Task)
+Project Description:
+This project is a visually appealing and user-centric eCommerce website template designed for an online grocery delivery business. Built using HTML5 and CSS3, the layout is clean, responsive, and optimized for user experience. The design simulates a real-world platform for selling groceries, daily essentials, and personal care products, with a focus on accessibility, ease of navigation, and promotional visibility.
+
+
+
+Key Features:
+1.Top Navigation Bar:
+Language selection, coupons, and promotional banner.
+Search bar with product and location filters.
+Quick access to user profile, cart, and wishlist.
+1.Header & Menu:
+Prominent logo: FreshCart
+Full navigation menu: Shop, Stores, Mega Menu, Pages, Account, Dashboard, Docs
+Drop-down menus for blog, account pages, and error pages.
+1.Hero Banner:
+Promotional highlight: Free Shipping on orders over $100
+Visually rich with fresh food imagery and clear call-to-action.
+1.Featured Categories:
+Quick-access category icons for: Baby Care, Chicken/Meat/Fish, Cleaning Essentials, Pet Care, Fruits & Vegetables, etc.
+1.Category Promotions:
+Highlight cards for deals like 30% off on Fruits & Vegetables and 25% off on Freshly Baked Buns
+1.Popular Products Section:
+Display of trending grocery items with:
+Product image, title, pricing (with discounts), star ratings, and “Add to Cart” buttons.
+Deals like Buy 1 Get 1, 40% Off, Hot Sale
+1.Service Highlights:
+Four benefit cards:
+10 Minute Grocery Delivery
+Best Prices & Offers
+Wide Assortment
+Easy Returns
+1.Footer Section:
+Organized links to all categories, consumer help, company information, and shopper opportunities.
+App store links and social media icons.
+Payment partner logos and copyright.
+Technologies Used:
+HTML5 for semantic layout
+CSS3 for responsive styling and layout structuring
